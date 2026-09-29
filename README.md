@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tauhid Sarker
 
-### 🤖 AI/ML & Data Science · 🌐 Full-Stack Developer · 💻 Software Engineer
+### 🤖 AI/ML & Data Science · 🌐 Full-Stack Developer 
 
 <a href="https://www.tauhidsarker.info"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/tauhidsarker111"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" /></a>

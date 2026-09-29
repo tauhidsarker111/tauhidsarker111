@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tauhid Sarker
 
-### 🤖 AI/ML & Data Science Enthusiast | 🌐 Full-Stack Developer 
+### 🤖 AI/ML & Data Science | 🌐 Full-Stack Developer | 💻 Software Developer
 
 <p align="center">
   <a href="https://www.tauhidsarker.info">
@@ -15,87 +15,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tauhidsarker111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tauhidsarker111&label=Profile%20Views&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Sc. in Computer Science & Engineering (CSE)** student with a strong interest in building intelligent, data-driven, and scalable software solutions.
+I'm a **B.Sc. in Computer Science & Engineering (CSE)** student passionate about building intelligent, data-driven, and scalable software solutions.
 
-My primary focus is on:
+My primary interests are **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**. I enjoy working with data, developing and evaluating machine learning models, building software systems, and integrating intelligent solutions into practical applications.
 
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 📊 **Data Science & Data Analytics**
-* 👁️ **Computer Vision**
-* 📝 **Natural Language Processing**
-* 🧠 **Deep Learning & Predictive Modeling**
-* 🌐 **Full-Stack Web Development**
-* 💻 **Software Development & System Design**
+Alongside AI/ML and Data Science, I work with modern web technologies such as **Next.js, NestJS, Node.js, JavaScript, TypeScript, and REST APIs**, as well as programming languages including **Python, C++, C#, and Java**.
 
-I enjoy working across the complete development lifecycle — from **data collection and preprocessing** to **model development, evaluation, deployment, API development, and user-facing applications**.
-
-> **My goal:** Build practical technology that connects **AI, data, software engineering, and real-world applications.**
-
----
-
-# 🚀 My Core Areas
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-## 🤖 AI / ML
-
-* Machine Learning
-* Deep Learning
-* Model Training
-* Model Evaluation
-* Model Implementation
-* Predictive Modeling
-* Computer Vision
-* NLP
-* AI-Based Solutions
-* Model Deployment
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📊 Data Science
-
-* Data Analysis
-* Exploratory Data Analysis
-* Data Cleaning
-* Data Preprocessing
-* Feature Engineering
-* Statistical Analysis
-* Data Visualization
-* Predictive Analytics
-* Python & R
-* Data-Driven Decision Making
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🌐 Full-Stack
-
-* Next.js
-* NestJS
-* Node.js
-* JavaScript
-* TypeScript
-* REST APIs
-* HTML5
-* CSS3
-* Database Integration
-* Responsive Web Applications
-
-</td>
-</tr>
-</table>
+> **Building intelligent systems with data, models, and software engineering.**
 
 ---
 
@@ -105,43 +38,119 @@ I enjoy working across the complete development lifecycle — from **data collec
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-### Areas of Interest
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │      ├── Classification
-        │      ├── Regression
-        │      ├── Predictive Modeling
-        │      └── Model Evaluation
-        │
-        ├── Deep Learning
-        │      ├── Neural Networks
-        │      ├── Computer Vision
-        │      └── Model Training
-        │
-        ├── Natural Language Processing
-        │      ├── Text Preprocessing
-        │      ├── Feature Extraction
-        │      ├── TF-IDF
-        │      └── Text Analysis
-        │
-        └── Data Science
-               ├── Data Cleaning
-               ├── EDA
-               ├── Feature Engineering
-               ├── Statistics
-               └── Visualization
-```
+### 🤖 Machine Learning
 
-### 🔬 AI / Model-Based Development
+* Supervised & Unsupervised Learning
+* Classification & Regression
+* Predictive Modeling
+* Feature Engineering
+* Model Training
+* Model Evaluation
+* Performance Analysis
+* Model Implementation
 
-I am particularly interested in developing systems where trained or analytical models become part of a complete application:
+</td>
 
-**Data → Preprocessing → Features → Model → Evaluation → API/System → Application**
+<td width="50%" valign="top">
 
-This allows AI/ML models to move beyond experiments and become useful components of real-world software.
+### 🧠 Deep Learning
+
+* Neural Networks
+* Deep Learning Models
+* Model Training & Validation
+* Computer Vision
+* Image Processing
+* Model Evaluation
+* AI-Based Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Natural Language Processing
+
+* Text Preprocessing
+* Tokenization
+* Stopword Processing
+* Stemming & Lemmatization
+* Feature Extraction
+* TF-IDF
+* Text Classification
+* Text Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Science & Analytics
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis
+* Feature Engineering
+* Statistical Analysis
+* Predictive Analytics
+* Data Visualization
+* Data-Driven Insights
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 AI / ML Development
+
+I am interested in developing complete machine learning solutions, from **data preparation and feature engineering to model training, evaluation, and practical implementation**.
+
+### Core Workflow
+
+<p align="center">
+
+`Data Collection`
+↓
+`Data Cleaning & Preprocessing`
+↓
+`Exploratory Data Analysis`
+↓
+`Feature Engineering`
+↓
+`Model Development`
+↓
+`Training & Evaluation`
+↓
+`Model Implementation / Deployment`
+
+</p>
+
+My goal is to develop models that can be integrated into practical software applications rather than remaining isolated experiments.
+
+---
+
+# 📊 Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Data%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-Analysis-6C63FF?style=for-the-badge" />
+</p>
+
+### Areas of Practice
+
+| Area                     | Focus                                         |
+| ------------------------ | --------------------------------------------- |
+| **Data Preparation**     | Cleaning, preprocessing, transformation       |
+| **Exploratory Analysis** | EDA, patterns, relationships, distributions   |
+| **Feature Engineering**  | Feature extraction and transformation         |
+| **Statistical Analysis** | Statistical methods and interpretation        |
+| **Predictive Analytics** | Building data-driven predictive solutions     |
+| **Visualization**        | Communicating insights through visualizations |
 
 ---
 
@@ -151,32 +160,23 @@ This allows AI/ML models to move beyond experiments and become useful components
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,js,ts,html,css&theme=dark" />
 </p>
 
-### Technologies
+### Frontend
 
-* **Frontend:** Next.js, JavaScript, TypeScript, HTML5, CSS3
-* **Backend:** NestJS, Node.js
-* **API:** REST API development and integration
-* **Application:** Full-stack web application development
-* **Database:** Database integration and application data management
-* **Design:** Responsive UI and basic UI/UX implementation
+`Next.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3`
 
-### 🔄 Development Approach
+### Backend
 
-```text
-Frontend
-   ↓
-Next.js / JavaScript / TypeScript
-   ↓
-REST API
-   ↓
-NestJS / Node.js
-   ↓
-Database
-   ↓
-Business Logic
-   ↓
-Application
-```
+`NestJS` · `Node.js` · `REST APIs`
+
+### Development
+
+* Full-Stack Web Applications
+* Frontend & Backend Integration
+* REST API Development
+* Database Integration
+* Responsive Web Development
+* Application Architecture
+* UI/UX Implementation
 
 ---
 
@@ -188,35 +188,34 @@ Application
 
 ### Languages & Technologies
 
-* C++
-* C#
-* .NET
-* Python
-* Java
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Application Development
-* API & System Integration
+* **C++**
+* **C# / .NET**
+* **Python**
+* **Java**
+* **Object-Oriented Programming**
+* **Data Structures & Algorithms**
+* **Application Development**
+* **API & System Integration**
 
-I also maintain programming and problem-solving projects to strengthen my understanding of **algorithms, programming fundamentals, OOP, and software development**.
+I also work on programming and problem-solving projects to strengthen my understanding of **algorithms, software architecture, OOP, and computational problem solving**.
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 AI / Model-Based Projects
 
-My GitHub profile is being developed toward a stronger **AI/ML and Data Science portfolio**, with emphasis on projects involving:
+My development focus is expanding toward practical **AI/ML and model-based applications**, including:
 
-* Machine Learning models
-* Data analysis and visualization
+* Machine Learning applications
+* Predictive modeling
+* Computer Vision systems
 * Natural Language Processing
-* Computer Vision
+* Data-driven applications
 * Model training and evaluation
-* AI-powered applications
-* Data-driven software solutions
+* AI-powered software solutions
 
-> 🚧 **AI/ML project portfolio is continuously being expanded.**
+> 🚧 More AI/ML projects are being developed and added to the portfolio.
 
 ---
 
@@ -224,103 +223,85 @@ My GitHub profile is being developed toward a stronger **AI/ML and Data Science 
 
 ### 🛒 COMSHOP1
 
-**Technology:** PHP · JavaScript · CSS · Web Development
+**PHP · JavaScript · CSS**
 
-A web-based application organized with separate application components such as:
+A web-based application organized into dedicated application components including model, control, view, JavaScript, CSS, and upload modules.
 
-```text
-control/
-css/
-js/
-model/
-uploads/
-view/
-```
+**Focus:** Web application architecture, frontend/backend interaction, and structured application development.
 
-**Focus:** Web application development, application structure, frontend/backend interaction, and MVC-style organization.
-
-🔗 **Repository:**
-https://github.com/tauhidsarker111/COMSHOP1
+[🔗 View Repository](https://github.com/tauhidsarker111/COMSHOP1)
 
 ---
 
 ### 🎓 Education Management System
 
-**Technology:** Java
+**Java**
 
-A Java-based education management project containing application classes, data components, frames, images, PDF resources, and Java application files.
+A Java-based application project containing classes, data components, frames, images, PDF resources, and application files.
 
-**Focus:** Java application development, OOP, GUI/application structure, and education-related system implementation.
+**Focus:** Java application development, OOP, GUI-based software, and education-related system development.
 
-🔗 **Repository:**
-https://github.com/tauhidsarker111/Education-Management-system-
+[🔗 View Repository](https://github.com/tauhidsarker111/Education-Management-system-)
 
 ---
 
 ### 🚑 Emergency Resource Allocation Service
 
-**Technology:** C#
+**C#**
 
-A software project focused on the concept of allocating resources for emergency situations.
+A software project focused on emergency resource allocation and system-oriented problem solving.
 
-**Focus:** C# application development, software logic, resource management, and system-oriented problem solving.
+**Focus:** C# development, application logic, resource management, and software engineering.
 
-🔗 **Repository:**
-https://github.com/tauhidsarker111/Emergency-Resource-Allocation-Service
+[🔗 View Repository](https://github.com/tauhidsarker111/Emergency-Resource-Allocation-Service)
 
 ---
 
-# 💻 Programming & Software Projects
+# 💻 Programming Projects
 
 ### 🔹 C# Basic Learning
 
-**Technology:** C#
+**C# · OOP**
 
-A beginner-friendly C# learning repository covering programming fundamentals and Object-Oriented Programming concepts.
+A learning repository covering C# programming fundamentals and Object-Oriented Programming concepts.
 
-🔗 **Repository:**
-https://github.com/tauhidsarker111/C-Basic-Learning
+[🔗 View Repository](https://github.com/tauhidsarker111/C-Basic-Learning)
 
 ---
 
 ### 🔹 Codeforces Problem Solving
 
-**Technology:** C++
+**C++ · Algorithms · Problem Solving**
 
-A collection of competitive programming solutions covering different algorithmic and problem-solving challenges.
+A collection of competitive programming solutions developed to strengthen algorithmic thinking, logical reasoning, and problem-solving skills.
 
-**Focus:**
-
-* Problem Solving
-* Algorithms
-* Logical Thinking
-* Competitive Programming
-* C++
-
-🔗 **Repository:**
-https://github.com/tauhidsarker111/Code-Force-Solve-Problem
+[🔗 View Repository](https://github.com/tauhidsarker111/Code-Force-Solve-Problem)
 
 ---
 
 # 🛠️ Technology Stack
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Model Training` `Model Evaluation`
+`Python` `TensorFlow` `PyTorch` `OpenCV` `Machine Learning` `Deep Learning` `Computer Vision` `NLP`
 
-### 📊 Data Science
+---
+
+## 📊 Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 </p>
 
-`Data Analysis` `EDA` `Data Cleaning` `Preprocessing` `Feature Engineering` `Statistics` `Visualization`
+`Python` `R` `Data Analysis` `EDA` `Data Preprocessing` `Feature Engineering` `Statistics` `Data Visualization`
 
-### 🌐 Web Development
+---
+
+## 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,js,ts,html,css&theme=dark" />
@@ -328,7 +309,9 @@ https://github.com/tauhidsarker111/Code-Force-Solve-Problem
 
 `Next.js` `NestJS` `Node.js` `JavaScript` `TypeScript` `REST API` `HTML5` `CSS3`
 
-### 💻 Software Development
+---
+
+## 💻 Software Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,dotnet&theme=dark" />
@@ -336,69 +319,79 @@ https://github.com/tauhidsarker111/Code-Force-Solve-Problem
 
 `C++` `C#` `.NET` `Java` `Python` `OOP` `Algorithms`
 
-### 🎨 Additional Skills
+---
+
+## 🎨 Additional Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress,figma,photoshop&theme=dark" />
 </p>
 
-* WordPress
-* UI/UX
-* Graphic Design
-* Video Editing
-* Digital Content Development
-
----
-
-# 🔄 What I Build
-
-```text
-                    TAUHID SARKER
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       🤖 AI/ML       📊 DATA        🌐 WEB
-          │              │              │
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                 💻 SOFTWARE
-                         │
-                         ▼
-              🚀 REAL-WORLD SOLUTIONS
-```
-
-My development approach combines:
-
-**AI/ML + Data Science + Web Development + Software Engineering**
-
-to create practical and scalable technology solutions.
+`WordPress` · `UI/UX` · `Graphic Design` · `Video Editing`
 
 ---
 
 # 🎯 Current Focus
 
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science & Analytics
-👁️ Computer Vision
-📝 Natural Language Processing
-🔬 Model Training & Evaluation
-🚀 AI/ML Model Deployment
-🌐 Next.js & NestJS
-🔌 REST API Development
-💻 Software Engineering
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+**Artificial Intelligence**
+
+Machine Learning
+Deep Learning
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Data Science**
+
+Data Analysis
+Predictive Modeling
+Data Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full-Stack**
+
+Next.js
+NestJS
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Software**
+
+C++
+C# / .NET
+Java
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhidsarker111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidsarker111&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tauhidsarker111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidsarker111&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -420,7 +413,7 @@ to create practical and scalable technology solutions.
 <p align="center">
 
 <a href="https://www.tauhidsarker.info">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/tauhidsarker111">
@@ -437,27 +430,29 @@ to create practical and scalable technology solutions.
 
 # 💡 Development Philosophy
 
-> **Learn → Build → Test → Improve → Deploy**
+<p align="center">
 
-I believe the best way to learn technology is by building practical systems, experimenting with new approaches, analyzing results, and continuously improving.
+**Learn → Build → Experiment → Evaluate → Improve → Deploy**
+
+</p>
+
+I believe in learning through practical development, experimenting with new technologies, analyzing results, and continuously improving software and AI solutions.
 
 ---
 
 <p align="center">
 
-### 🤖 AI/ML & Data Science
+### 🤖 AI / ML & Data Science
 
-### ↓
+### +
 
 ### 🌐 Full-Stack Development
 
-### ↓
+### +
 
 ### 💻 Software Engineering
 
-### ↓
-
-### 🚀 Real-World Technology Solutions
+**Building intelligent and practical technology solutions. 🚀**
 
 </p>
 
@@ -468,5 +463,5 @@ I believe the best way to learn technology is by building practical systems, exp
 </p>
 
 <p align="center">
-  <b>Building with Data. Powered by AI. Delivered through Software. 🚀</b>
+  <b>Building with Data • Powered by AI • Delivered through Software</b>
 </p>
